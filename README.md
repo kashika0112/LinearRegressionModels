@@ -10,4 +10,5 @@ It includes the following project(s):
 ## Linear Regression
 <p>Linear Regression is a method to predict dependent variable(Y) based on the values of independent variable(X). It can be based for the cases where you want to predict some continuous quantity</p>
 
-<img src="https://github.com/kashika0112/LinearRegressionModels/blob/main/Images/Rldiagram.png" width=500>
+
+<img src="https://github.com/kashika0112/LinearRegressionModels/blob/main/Images/LRdiagram.png">
